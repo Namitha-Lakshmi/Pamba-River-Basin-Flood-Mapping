@@ -34,6 +34,14 @@ The study used Sentinel-1 SAR imagery to compare pre-flood and post-flood condit
 - Flood Susceptibility Map
 - GIS-Based Spatial Analysis
 - Flood Preparedness Framework
+- ## Study Area
+![Study Area](Study_Area.png)
+
+## Flood Inundation Map
+![Flood Map](Flood_Map.png)
+
+## Flood Susceptibility Map
+![Susceptibility Map](Susceptibility_Map.png)
 
 ## Report
 [Download Full Project Report](./Pamba_River_Basin_Flood_Mapping_Report.pdf)
